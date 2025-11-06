@@ -127,7 +127,7 @@ If you are interested in participating on a project, click on the “Issues” t
 
 <a id="how-new-projects-or-manuscripts-will-be-communicated-to-the-EFI-community"></a>
 ### How Manuscripts or Projects are Communicated to the EFI Community
-After a new project or manuscript idea gets posted as [an Issue](https://github.com/eco4cast/efi-projects/issues), the EFI administrators will post it on the EFI Slack group and it will also be included in the following newsletter.  Newsletters come out every 4-6 weeks. 
+After a new project or manuscript idea gets posted as [an Issue](https://github.com/eco4cast/efi-projects/issues), the EFI administrators will share it on the EFI Slack group and it will also be included in the newsletter issue released after the manuscript is posted. [EFI Newsletters](https://ecoforecast.org/tag/newsletters/) come out every 4-6 weeks. 
 
 ### Examples of Potential Ways to Contribute as a Co-author
 - 14 contributor roles listed by Credit Taxonomy: [https://credit.niso.org/](https://credit.niso.org/)
@@ -162,5 +162,5 @@ After a new project or manuscript idea gets posted as [an Issue](https://github.
 
 <a id="acknowledgements"></a>
 ## Acknowledgements 
-As we developed this process, we gained insight from looking at the process that the [Global Lakes Ecological Observatory Network (GLEON)](https://gleon.org/) and [Zarr-Python](https://zarr.readthedocs.io/en/stable/) use for managing their projects.
+These guidelines for sharing and expressing interest in EFI community-developed manuscripts was inspired by the processes used by the [Global Lakes Ecological Observatory Network (GLEON)](https://gleon.org/) and [Zarr-Python](https://zarr.readthedocs.io/en/stable/) for managing their projects.
 
