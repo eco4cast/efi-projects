@@ -86,7 +86,7 @@ Multiple codes can be selected for each manuscript, and many codes should change
 
 - **NSF RCN** - manuscript related to activities that are part of the NSF-funded EFI Research Coordination Network
 - **Sloan** - manuscript related to activities that are part of the EFI Alfred P. Sloan Foundation funding
-- Other tags will be added as needed
+- **Other tags** - will be added as needed
 
 <a id="how-to-use-GitHub-Issues-for-manuscript-ideas"></a>
 ## How to use GitHub Issues for Manuscript Ideas
