@@ -16,7 +16,7 @@ In this ReadMe you will find information about
 - [What defines a manuscript as being an EFI manuscript](#what-defines-a-manuscript-as-being-an-EFI-manuscript)  
 - [Potential funding for page fees and how to request funding](#potential-funding-for-page-fees-and-how-to-request-funding) 
 - [Color code and labels for types of manuscripts](#color-code-and-labels-for-types-of-manuscripts)  
-- [Instructions on how to submit manuscript ideas as a GitHub Issue](#instructions-on-how-to-submit-manuscript-ideas-as-a-GitHub-Issue)
+- [Register manuscript ideas, Access and express interest in posted manuscript ideas, Communications about manuscript ideas](#how-to-use-GitHub-Issues-for-manuscript-ideas)
 - [Acknowledgements](#acknowledgements) 
 
 <a id="what-defines-a-manuscript-as-being-an-EFI-manuscript"></a>
@@ -88,8 +88,8 @@ Multiple codes can be selected for each manuscript, and many codes should change
 - **Sloan** - manuscript related to activities that are part of the EFI Alfred P. Sloan Foundation funding
 - Other tags will be added as needed
 
-<a id="instructions-on-how-to-submit-manuscript-ideas-as-a-GitHub-Issue"></a>
-## How to use GitHub Issues 
+<a id="how-to-use-GitHub-Issues-for-manuscript-ideas"></a>
+## How to use GitHub Issues for Manuscript Ideas
 The following section provides instructions for 
 1. [How to access the list of manuscripts and sign up to receive notifications about new manuscript listings](#how-to-access-the-list-of-manuscripts-and-sign-up-to-receive-notifications-about-new-manuscript-listings) 
 2. [How to register a manuscript as a GitHub Issue](#how-to-register-a-manuscript-as-a-GitHub-Issue) 
