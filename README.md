@@ -119,6 +119,8 @@ Make sure you are signed in to your GitHub account. Once you are in the Project 
 - Co-authorship guidelines that list ways people can participate.  If you are looking for guidance on how to define co-authorship guidelines, see examples below from how others in EFI have attributed authorship. EFI does not endorse or require that any specific guidelines be used, but we do ask that guidelines are clearly defined by the project lead and that they are included in the manuscript project description. 
 - Any other details that are important to share with potential co-authors
 
+Here is a [Google Doc template](https://docs.google.com/document/d/11il_cnE1hXKBslxDdD_xejrByAFOR8jYLVCzNUJKGbU/edit?usp=sharing) with the topics listed above that can be used to draft before adding a new manuscript Issue.
+
 <a id="how-to-express-interest-in-participating-on-a-manuscript-or-project"></a>
 ### How to Express Interest in a Manuscript or Project
 If you are interested in participating on a project, click on the “Issues” tab of the repository or go directly to the [Issues page](https://github.com/eco4cast/efi-projects/issues). Click on the Issue with the manuscript idea of interest.
