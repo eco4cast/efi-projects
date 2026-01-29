@@ -69,6 +69,7 @@ Multiple codes can be selected for each manuscript, and many codes should change
   - Manuscript Drafted; Checking for overlooked co-authors - manuscript is drafted; checking for potentially overlooked co-authors to join
 
 - **$${\color{red}Red}$$** = manuscripts that are no longer accepting co-authors
+  - No longer accepting other co-authors - the project is at a stage where co-authorship is set
   - In  Review - the manuscript has been submitted for review
   - Accepted for publication - the manuscript has been accepted for publication
   - Published - the DOI of the publication is now available; the Issue is closed.
