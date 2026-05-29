@@ -56,7 +56,9 @@ The projects listed in the Issues are color-coded by labels that reflect
 2. the type of EFI activity the manuscript came out of or is being developed by, and 
 3. any EFI funding that will be acknowledged.
 
-Multiple codes can be selected for each manuscript, and many codes should change throughout the lifecycle of the project. 
+Multiple labels can be selected for each manuscript, and many labels should change throughout the lifecycle of the project. 
+
+*Currently, labels can only be added by the repo admins. We are working on a fix, but at this time, please email [info@ecoforecast.org](mailto:info@ecoforecast.org) with your preferred labels after creating the issue.*
 
 ### Color Code by Stage of Manuscript Preparation
 - **$${\color{green}Green}$$** = manuscripts are at the beginning stages of development and open to collaboration
@@ -80,7 +82,7 @@ Multiple codes can be selected for each manuscript, and many codes should change
 ### Codes for the Type of Group Leading the Manuscript
 - **EFI Student & Early Career Association** - manuscript led by the EFI Student & Early Career Association
 - **EFI working group or chapter** - manuscript led by an EFI working group or international chapter (CEFI, EEFI, OEFI, AEFI)
-- **EFI meeting** - Manuscript idea originated at an EFI meeting or conference
+- **EFI meeting** - Manuscript idea originated or developed at an EFI meeting or conference
 - **Other group** - any other group type
 
 ### Codes by the Funded Project the Manuscript is Connected With
